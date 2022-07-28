@@ -1,0 +1,4 @@
+{
+  "./src/**/*.{ts,tsx,js,jsx}": "pretty-quick --staged",
+  "./src/**/*.{less,scss}": "stylelint --cache --fix"
+}
