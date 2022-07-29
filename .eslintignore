@@ -1,5 +1,4 @@
 /node_modules
 /build
-src/**/*.less
 package-lock.json
 
