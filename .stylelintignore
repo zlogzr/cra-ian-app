@@ -6,7 +6,7 @@
 *.eot
 *.ttf
 *.woff
-*.css
+normalize.css
 /build
 /public
 /node_modules
